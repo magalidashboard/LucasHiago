@@ -1,7 +1,7 @@
 ### Timeline 2022
 
 Janeiro - (lucashiago.github.io)
-01. - Construir API  
+01. - Construir API  [x]
 02. - Construir Rotas 
 03. - Construir MiddleWares
 04. - Construir Controllers
