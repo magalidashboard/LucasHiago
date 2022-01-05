@@ -2,13 +2,13 @@
 
 Janeiro - (lucashiago.github.io)
 01. - Construir API  [x]
-02. - Construir Rotas [IN PROGRESS]
-03. - Construir MiddleWares
+02. - Construir Rotas [IN PROGRESS] [42%]
+03. - Construir MiddleWares [x]
 04. - Construir Controllers [x]
 05. - Construir Services [x]
 06. - Conectar ao banco de dados [x]
-07. - Construir migrations
-08. - Construir seeds + S3 aws
+07. - Construir migrations, Construir seeds
+08. - S3 aws [x]
 09. a 15. - Construir painel utilizável API (UX) - Dashboard
 16. a 21. - Implementar painel front-end
 22. a 26. - Construir front-end (UX)
