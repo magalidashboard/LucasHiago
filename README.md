@@ -2,7 +2,7 @@
 
 Janeiro - (lucashiago.github.io)
 01. - Construir API  [x]
-02. - Construir Rotas [IN PROGRESS] [46%]
+02. - Construir Rotas [IN PROGRESS] [88%]
 03. - Construir MiddleWares [x]
 04. - Construir Controllers [x]
 05. - Construir Services [x]
