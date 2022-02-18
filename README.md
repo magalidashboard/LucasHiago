@@ -20,7 +20,7 @@ Fevereiro - (lucashiago.github.io)
 Março a Dezembro - (Cripto Game) * Looping *
 01. - Blockchain basics - Blockchain advanced knowledge
 02. - Blockchain / Pools / Cripto basics - advanced knowledge
-03. - Poker game basics
+03. - Isometric game basics
 04. - Pooling a game
 05. - Create a solid multiplayer functional game with poll and blockchain
 
