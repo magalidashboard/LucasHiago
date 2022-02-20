@@ -18,6 +18,7 @@ Fevereiro - (lucashiago.github.io)
 01. a 28. - Implementar front-end
 
 [IF EU MONETIZAR] {
+
   Março a Dezembro - (Cripto Game) * Looping *
   01. - Blockchain basics - Blockchain advanced knowledge
   02. - Blockchain / Pools / Cripto basics - advanced knowledge
@@ -26,6 +27,9 @@ Fevereiro - (lucashiago.github.io)
   05. - Create a solid multiplayer functional game with poll and blockchain
 
   ##2023 apresentar game 
+  
 } [ELSE] {
+
   MONETIZAR PRIMEIRO
+  
 }
